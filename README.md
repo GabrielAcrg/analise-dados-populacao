@@ -7,6 +7,7 @@ Este projeto se dedica a explorar as dinâmicas da população mundial através 
 - [Pandas](https://pandas.pydata.org/)
 - [Seaborn](https://seaborn.pydata.org/)
 - [Matplotlib](https://matplotlib.org/)
+- [Jupyter](https://jupyter.org/)
 
 # Licença
 Este projeto está licenciado sob a licença MIT.
